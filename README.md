@@ -1,4 +1,6 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gi](https://giphy.com/stickers/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx?utm_source=media-link&utm_medium=landing&utm_campaign=Media+Links&utm_term=)f" width="100"/>
+</div>
 
 <!--
 **SSeptimiu/SSeptimiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
