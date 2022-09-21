@@ -23,7 +23,7 @@
 
 ### 💻: About Me :
   
-  I am a Hybrid Cloud Architekt <img src="https://media1.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif?cid=790b761121e4405b432ccfabdac831298e7a5d72f9db39e3&rid=giphy.gif&ct=g"> from Romania.
+  I am a Hybrid Cloud Architekt <img src="https://media1.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif?cid=790b761121e4405b432ccfabdac831298e7a5d72f9db39e3&rid=giphy.gif&ct=g"> from Germany.
   
 - :telescope: I’m working as a Cloud Architect and contributing to Azure Cloud Projects and Migrations
 
